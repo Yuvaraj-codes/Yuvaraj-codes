@@ -1,26 +1,32 @@
-<h3 align="center">👋 Hello! I'm Yuvaraj, a passionate front-end developer with a love for crafting engaging and user-friendly web experiences. 🌟 I specialize in front-end technologies such as HTML5, CSS3, and JavaScript, and I'm always excited to explore new frameworks and libraries. My goal is to create clean, modular, and scalable code that translates into intuitive user interfaces.</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello+My+Name+is+Yuvaraj;I'm+22+years+old;I+am+from+Chennai;I+am+studying+front+end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
- ![coding](https://github.com/Yuvaraj-codes/Yuvaraj-codes/assets/137691847/1dc0e42a-07f0-4656-a2e2-08c64ac86fe8")
 
 
+### Main skills:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+ 
+### Tools:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-017AD7?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=017AD7)&nbsp;
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
-- 🌱 I’m currently learning **Front end Developer**
+### Other Knowledge:
+  
+### Studying in this moment:
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/Yuvaraj_G](https://www.behance.net/Yuvaraj_G)
 
-- 📫 How to reach me **gyuvarajganesh@gmail.com**
+<div align="center">
+<br><a href="https://www.github.com/carloseduardori" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/carloseduardori?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carloseduardori}/count.svg" /></p> 
+<br></div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yuvaraj371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuvaraj371/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/yuvaraj_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/yuvaraj_g" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvaraj-codes&show_icons=true&locale=en&layout=compact" alt="yuvaraj-codes" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvaraj-codes&show_icons=true&locale=en" alt="yuvaraj-codes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaraj-codes&" alt="yuvaraj-codes" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
