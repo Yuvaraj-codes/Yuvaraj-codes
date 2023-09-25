@@ -12,7 +12,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-017AD7?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=017AD7)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
 
 ### Other Knowledge:
   
