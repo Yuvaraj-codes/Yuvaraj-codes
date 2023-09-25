@@ -29,8 +29,7 @@
 
 
 <div align="center">
-<br><a href="https://www.github.com/carloseduardori" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/carloseduardori?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<br><a href="https://www.github.com/Yuvaraj-codes" target="_blank" rel="noreferrer"></a>
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{carloseduardori}/count.svg" /></p> 
 <br></div>
